@@ -23,7 +23,6 @@
         "reference": "123abc"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
         "php": "^7.1",
         "guzzlehttp/guzzle": "^6.3",
