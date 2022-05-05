@@ -1,26 +1,29 @@
 {
-	"name": "jomagalo/php-tron",
-	"version": "1.0.0",
-    "dist": {
-        "url": "https://dontv.es/php-tron-1.0.0.zip",
-        "type": "zip"
-    },
-    "description": "Support TRON's TRX and TRC20, which include functions such as address creation, balance query, transaction transfer, query the latest blockchain, query information based on the blockchain, and query information based on the transaction hash",
+        "name": "jomagalo/php-tron",
+        "version": "1.0.0",
+    "description": "Support TRON's TRX and TRC20, which include functions such as address creation, balance query, transaction transfer, query the latest blockchain, query information based$
     "keywords": [
         "php",
         "tron",
         "trx",
         "trc20"
     ],
-	"type": "library",
+    "type": "library",
     "homepage": "https://github.com/jomagalo/php-tron",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jomagalo",
-            "email": "info@dontv.es"
+            "name": "jomagalo",
+            "email": "243944672@qq.com"
         }
     ],
+    "dist": {
+        "url": "https://dontv.es/php-tron-1.0.0.zip",
+        "type": "zip",
+        "reference": "123abc"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "^7.1",
         "guzzlehttp/guzzle": "^6.3",
@@ -33,5 +36,5 @@
         "psr-4": {
             "TronTool\\": "tron.php/src/"
         }
-    }      
+    }
 }
