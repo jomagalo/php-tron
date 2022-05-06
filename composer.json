@@ -27,7 +27,7 @@
         "php": "^7.1",
         "guzzlehttp/guzzle": "~6.0|^7.0",
         "kornrunner/secp256k1": "^0.1.2",
-        "sc0vu/web3.php": "dev-g7",
+        "morinohtar/web3.php": "dev-g7",
         "simplito/elliptic-php": "^1.0"
 
     },
