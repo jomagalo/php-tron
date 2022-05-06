@@ -30,7 +30,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Morinohtar/web3.php"
+            "url": "https://github.com/jomagalo/web3.php"
         }
     ],
     "autoload": {
