@@ -27,10 +27,16 @@
         "php": "^7.1",
         "guzzlehttp/guzzle": "^6.3",
         "kornrunner/secp256k1": "^0.1.2",
-        "sc0vu/web3.php": "^0.1.4",
+        "sc0vu/web3.php": "dev-g7",
         "simplito/elliptic-php": "^1.0"
 
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Morinohtar/web3.php"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "TronTool\\": "tron.php/src/"
