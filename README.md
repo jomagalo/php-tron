@@ -6,13 +6,13 @@ Set minimum stability to dev
 
 Then
 ```
-composer require sc0vu/web3.php dev-master
+composer require jomagalo/php-tron dev-master
 ```
 
 Or you can add this line in composer.json
 
 ```
-"sc0vu/web3.php": "dev-master"
+"jomagalo/php-tron": "dev-master"
 ```
 
 # PHP-Tron-develop
