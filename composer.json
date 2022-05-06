@@ -1,6 +1,6 @@
 {
         "name": "jomagalo/php-tron",
-        "version": "1.0.0",
+        
     "description": "Support TRON's TRX and TRC20, which include functions such as address creation",
     "keywords": [
         "php",
@@ -17,11 +17,7 @@
             "email": "243944672@qq.com"
         }
     ],
-    "dist": {
-        "url": "https://dontv.es/php-tron-1.0.0.zip",
-        "type": "zip",
-        "reference": "123abc"
-    },
+    
     "minimum-stability": "dev",
     "require": {
         "php": "^7.1",
